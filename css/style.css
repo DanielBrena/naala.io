@@ -1,0 +1,39 @@
+.naala-text-color{
+      background: -webkit-linear-gradient(left, rgb(197,96,192), rgb(45,189,244));
+	background: linear-gradient(left, rgb(197,96,192), rgb(45,189,244));
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+.naala-text-color_sub{
+      background: -webkit-linear-gradient(left,  rgb(86,252,143), rgb(45,189,244));
+	background: linear-gradient(left,rgb(86,252,143), rgb(45,189,244));
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+.naala-background-color{
+	 background: rgb(45,189,244); 
+  background: -webkit-linear-gradient(left, rgb(197,96,192), rgb(45,189,244)); 
+  background: -o-linear-gradient(right, rgb(197,96,192), rgb(45,189,244)); 
+  background: -moz-linear-gradient(right, rgb(197,96,192), rgb(45,189,244)); 
+  background: linear-gradient(to right, rgb(197,96,192), rgb(45,189,244)); 
+}
+.naala-card{
+	margin-top: 40px;
+	box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14) !important;
+	border-radius: 6px;
+	margin-bottom: 30px;
+}
+.card-header{
+	padding: 15px;
+	float: left;
+	border-radius: 3px;
+	margin:-20px 15px 0;
+	box-shadow: 	0 4px 20px 0px rgba(0, 0, 0, 0.14), 0 7px 10px -5px #29e068;
+	background-color:rgb(86,252,143);
+}
+.naala-card .card-content{
+	padding-top: 0px;
+}
+.card-title {
+	padding-bottom: 15px;
+}
